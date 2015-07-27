@@ -1,0 +1,9 @@
+{
+	"name": "dgame_experiment",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, andy",
+	"authors": ["andy"],
+	 "dependencies": {
+        "dgame": ">=0.5.0"
+	}
+}
